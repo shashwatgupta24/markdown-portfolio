@@ -1,13 +1,13 @@
-👉 Graphic Designing
-👉 Gaming
-👉 Coding
+- Graphic Designing
+- Gaming
+- Coding
 
-📖 The Alchemist
-📖 A Thousand Splendid Suns
-📖 Kite Runner
-📖 Sherlock Homes Series
+- The Alchemist
+- A Thousand Splendid Suns
+- Kite Runner
+- Sherlock Homes Series
 
-🍰 Cakes
-🍰 Chole Bhature
-🍰 Rajma Chawal
-🍰 Kadi Chawal
+- Cakes
+- Chole Bhature
+- Rajma Chawal
+- Kadi Chawal
