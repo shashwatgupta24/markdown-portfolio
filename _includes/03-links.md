@@ -1,1 +1,1 @@
-[LinkedIn] (https://www.linkedin.com/in/shashwatgupta15)
+[LinkedIn](https://www.linkedin.com/in/shashwatgupta15)
