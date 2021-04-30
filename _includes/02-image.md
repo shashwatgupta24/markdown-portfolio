@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Shashwat Gupta](https://user-images.githubusercontent.com/71589232/116669238-f6d40280-a9bb-11eb-943f-f8d08ab2c184.png)
